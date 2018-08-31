@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Hello, Welcome to Auto Build and Deployment</h1>
-<h2>This includes GIT,Maven,Jenkins and Tomcat</h2>
+<h2 style="color:blue">This includes GIT,Maven,Jenkins and Tomcat</h2>
 <h2 style="color:red">GIT:</b></h2>
 <p>Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files. As a distributed revision control system, it is aimed at speed, data integrity,and support for distributed, non-linear workflows.</p>
 <h2 style="color:red">MAVEN:</b></h2>
